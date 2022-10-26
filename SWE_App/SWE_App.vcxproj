@@ -142,15 +142,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ButtonFactory.cpp" />
-    <ClCompile Include="CalculatorProcessor.cpp" />
     <ClCompile Include="Frame.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ButtonFactory.h" />
     <ClInclude Include="CalculatorProcessor.h" />
+    <ClInclude Include="ExecuteClass.h" />
     <ClInclude Include="Frame.h" />
     <ClInclude Include="Main.h" />
+    <ClInclude Include="Separator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

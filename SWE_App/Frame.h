@@ -1,5 +1,6 @@
 #pragma once
 #include "wx/wx.h"
+
 class Frame : public wxFrame
 {
 public:
@@ -7,8 +8,10 @@ public:
 	~Frame();
 
 private:
-	int screenWidth = 550;
-	int screenHeight = 650;
+
+	int screenWidth = 510;
+	int screenHeight = 610;
+
 	bool clear = true;
 	bool openParenth = true;
 	bool calculated = false;
@@ -27,15 +30,15 @@ private:
 	wxButton* button_sub = nullptr;
 	wxButton* button_mult = nullptr;
 	wxButton* button_div = nullptr;
+	wxButton* button_mod = nullptr;
 	wxButton* button_equals = nullptr;
 	wxButton* button_parenth = nullptr;
 	wxButton* button_negative = nullptr;
 	wxButton* button_decimalPoint = nullptr;
 	wxButton* button_clear = nullptr;
-	wxButton* button_mod = nullptr;
+	wxButton* button_tan = nullptr;
 	wxButton* button_sin = nullptr;
 	wxButton* button_cos = nullptr;
-	wxButton* button_tan = nullptr;
 	wxTextCtrl* textbox_value = nullptr;
 
 	void OnButtonClicked(wxCommandEvent& evt);
