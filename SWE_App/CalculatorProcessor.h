@@ -47,7 +47,14 @@ public:
 		{
 			valueOfString.pop_back();
 		}
+		
 	}
+	static double Add(double n1, double n2) { return n1 + n2; }
+	static double Minus(double n1, double n2) { return n1 - n2; }
+	static double Multiply(double n1, double n2) { return n1 * n2; }
+	static double Divide(double n1, double n2) { return n1 / n2; }
+	static double Mod(int n1, int n2) { return n1 % n2; }
+
 	// bool checker for 0
 	bool CheckForNull() {
 		if (valueOfString == "0") {
@@ -74,6 +81,7 @@ public:
 		result = std::to_string(getCos);
 		return result;
 	}
+	static double Cos (double n1) { return cos(n1* 3.1415928/180); }
 	// sin formula
 	std::string GetSin() {
 		std::string result = "";
@@ -83,7 +91,7 @@ public:
 		result = std::to_string(getSin);
 		return result;
 	}
-
+	static double Sin(double n1) { return sin(n1 * 3.1415928 / 180); }
 	void numberToString(std::string strNumToAdd) {
 		valueOfString = valueOfString + strNumToAdd;
 	}
@@ -117,6 +125,7 @@ public:
 	void Clear() {
 		valueOfString = "0";
 	}
+	static double ClearNow(double n1) { return tan(n1 *0); }
 	// tan formula
 	std::string GetTan() {
 		std::string result = "";
@@ -126,6 +135,7 @@ public:
 		result = std::to_string(getTan);
 		return result;
 	}
+	static double Tan(double n1) { return tan(n1 * 3.1415928 / 180); }
 };
 
 CalculatorProcessor* CalculatorProcessor::processing_machine = nullptr;
