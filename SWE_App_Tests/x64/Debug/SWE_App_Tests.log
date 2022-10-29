@@ -1,0 +1,88 @@
+﻿  ButtonFactory.cpp
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\ButtonFactory.cpp(172,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Frame.cpp
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Frame.cpp(160,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Main.cpp
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Main.cpp(16,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SWE_App_Tests.cpp
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Separator.h(31,37): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Separator.h(40,37): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Separator.h(59,40): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Separator.h(68,39): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Separator.h(87,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Separator.h(90,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Separator.h(93,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Separator.h(96,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\Separator.h(99,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\CalculatorProcessor.h(78,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App\CalculatorProcessor.h(122,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(213,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(215,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(218,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(220,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(223,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(225,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(227,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(229,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(232,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(234,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(238,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(240,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(243,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(245,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(248,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(250,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(252,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(254,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(257,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(259,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(293,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(295,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(298,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(300,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(303,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(305,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(307,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(309,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(312,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(314,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(318,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(320,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(323,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(325,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(328,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(330,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(332,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(334,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(337,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(339,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(851,14): error C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(853,14): error C4996: '_wfreopen': This function or variable may be unsafe. Consider using _wfreopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1041,50): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1042,56): error C4996: '_wgetenv': This function or variable may be unsafe. Consider using _wdupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1044,54): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1045,56): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1047,64): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1048,68): error C4996: '_wgetenv': This function or variable may be unsafe. Consider using _wdupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Documents\vcpkg\installed\x64-windows\include\wx\filefn.h(410,14): error C4996: '_wopen': This function or variable may be unsafe. Consider using _wsopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App_Tests\SWE_App_Tests.cpp(55,3): error C2535: 'const Microsoft::VisualStudio::CppUnitTestFramework::MemberMethodInfo *SWEAppTests::SWEAppTests::__GetTestMethodInfo_ObtainAddition(void)': member function already defined or declared
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App_Tests\SWE_App_Tests.cpp(18): message : see declaration of 'SWEAppTests::SWEAppTests::__GetTestMethodInfo_ObtainAddition'
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App_Tests\SWE_App_Tests.cpp(55,3): error C2535: 'void SWEAppTests::SWEAppTests::ObtainAddition(void)': member function already defined or declared
+C:\Users\juand\Desktop\Software Engineering Class\calculator-olman-Juan-Fuente-main\SWE_App_Tests\SWE_App_Tests.cpp(18): message : see declaration of 'SWEAppTests::SWEAppTests::ObtainAddition'
+  Generating Code...
